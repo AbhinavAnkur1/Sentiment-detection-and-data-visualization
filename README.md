@@ -1,4 +1,4 @@
-# Final Project Group-10
+# Sentiment detection and data visualization
 
 <img src="harrypotter.jpeg">
 

@@ -19,8 +19,6 @@ import re
 
 ### 1. We Import the book for basic analysis 
 
-### 1. We Import the book for basic analysis 
-
 
 ```python
 import os
